@@ -1,0 +1,4 @@
+namespace: bgdk
+resources:
+- service.yaml
+- deployment.yaml
